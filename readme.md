@@ -1,1 +1,1 @@
-Aplicativo em construção
+:construction: Aplicativo em construção :construction:
