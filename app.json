@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ignite-lab-3",
+    "slug": "ignite-lab-3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
