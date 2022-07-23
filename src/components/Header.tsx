@@ -28,6 +28,7 @@ export function Header({ title, ...rest }: Props) {
       bg="gray.600"
       pb={6}
       pt={12}
+      {...rest}
     >
       <IconButton
         icon={<CaretLeft color={colors.gray[200]} size={24} />}

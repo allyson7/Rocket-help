@@ -28,7 +28,7 @@ export function Register() {
         patrimony,
         description,
         status: "open",
-        createdAt: firestore.FieldValue.serverTimestamp(),
+        created_at: firestore.FieldValue.serverTimestamp(),
       })
       .then(() => {
         Alert.alert("Solicitação", "Solicitação enviada com sucesso");
@@ -46,7 +46,7 @@ export function Register() {
 
   return (
     <VStack flex={1} p={6} bg="gray.600">
-      <Header title="Nova chamada" />
+      <Header title="Novo Atendimento" />
 
       <Input
         placeholder="Numero do atendimento"
