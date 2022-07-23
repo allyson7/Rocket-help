@@ -1,4 +1,4 @@
-package com.ignitelab3;
+package com.assistespirita;
 
 import android.os.Build;
 import android.os.Bundle;

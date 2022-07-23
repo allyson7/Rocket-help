@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "876798727222",
+    "project_id": "assist-espirita",
+    "storage_bucket": "assist-espirita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876798727222:android:8f525586bef1ac74f2f497",
+        "android_client_info": {
+          "package_name": "com.assistespirita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876798727222-dheq6b1bkp3pa1gr1c1gb52nhgitqrjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2z7vdv-tC1jf4zxbXMx44DLRIueawrHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876798727222-dheq6b1bkp3pa1gr1c1gb52nhgitqrjv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876798727222-oeqc0romkbh8ppb6a278f13omqat2fig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.assistespirita"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

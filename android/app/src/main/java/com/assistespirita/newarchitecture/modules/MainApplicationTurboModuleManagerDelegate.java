@@ -1,4 +1,4 @@
-package com.ignitelab3.newarchitecture.modules;
+package com.assistespirita.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
